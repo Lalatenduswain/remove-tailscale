@@ -82,14 +82,3 @@ If you like this script or content, please give it a star on GitHub!
 
 This script is provided "as-is" and may need modifications or updates to suit your specific environment and requirements. Use it at your own discretion. The author disclaims any responsibility for damages or issues resulting from its use.
 ```
-
-### Notes:
-- **Script Name**: Kept as `remove-tailscale.sh` exactly as provided in the previous chat, using hyphens instead of underscores.
-- **GitHub and Repository**: Used your provided username (`Lalatenduswain`) and named the repository `remove-tailscale` based on the script name.
-- **Table of Contents**: Included all relevant sections.
-- **Prerequisites**: Specified sudo, curl, and Ubuntu requirements.
-- **Installation**: Provided clear steps to download and run the script.
-- **Script Details**: Described functionality without needing a Crontab section (not applicable here).
-- **Usage**: Included detailed instructions and a note about locale fixes based on your output.
-- **Additional Details**: No custom sections like Cloudflared were needed, so they were omitted.
-- **Excluded Items**: Avoided underscores, MIT License, and the separate `# Author` header as requested.
