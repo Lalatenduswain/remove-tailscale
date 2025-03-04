@@ -81,4 +81,3 @@ If you like this script or content, please give it a star on GitHub!
 **Author**: Lalatendu Swain | [GitHub](https://github.com/Lalatenduswain/) | [Website](https://blog.lalatendu.info/)
 
 This script is provided "as-is" and may need modifications or updates to suit your specific environment and requirements. Use it at your own discretion. The author disclaims any responsibility for damages or issues resulting from its use.
-```
