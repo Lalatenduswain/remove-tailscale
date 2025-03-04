@@ -27,7 +27,7 @@ No additional user changes are needed beyond having sudo access.
 ## Installation
 1. Download the script:
    ```bash
-   wget https://raw.githubusercontent.com/Lalatenduswain/remove-tailscale/main/remove-tailscale.sh
+   wget https://raw.githubusercontent.com/Lalatenduswain/remove-tailscale/refs/heads/master/remove-tailscale.sh
    ```
 2. Make it executable:
    ```bash
